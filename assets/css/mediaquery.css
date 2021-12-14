@@ -1,0 +1,92 @@
+@media (min-width: 320px) and (max-width: 650px){
+	.btn{
+		padding: 10px 30px;
+    	background: #3E3F40;
+    	color: #E52227;
+    	border-radius: 8px;
+    	font-weight: 700;
+    	font-size: 13px;
+    	margin: 11px 0 0 -16px;
+	}
+}
+@media (min-width: 320px) and (max-width: 767px){
+	.content{
+		font-size: 30px;
+	}
+	.pro-image{
+		display: none;
+	}
+	.Investment-form{
+		font-size: 12px;
+		margin: 0 0 0 36px;
+	}
+	.heading{
+		font-size: 15px;
+		text-align: center;
+	}
+	.fields{
+		width: 100%;
+	}
+	.nav-link{
+		float: left;
+		font-size: 9px;
+	}
+	.form-items{
+		    height: 0;
+	}
+	.items{
+		margin: 0 0 0 0;
+	}
+	.button{
+		padding: 0;
+		margin: 0;
+	}
+	.button li{
+		list-style: none;
+	}
+	.btn{
+		margin: 1px 0 0 0;
+    	float: right;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.items2{
+		display: none;
+	}
+	.heading{
+		font-size: 30px;
+	}
+	.Investment-form{
+		font-size: 12px;
+		margin: 0 0 0 36px;
+	}
+	.items a{
+		font-size: 7px;
+		font-weight: 700;
+	}
+	.getbtn {
+		padding: 9px 27px;
+    	border-radius: 7px;
+    	font-size: 18px;
+	}
+	.next-btn{
+		margin: 35px 17px 0 0;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.items2{
+		display: none;
+	}
+	.btn{
+		margin: 28px 0 0 0;
+	}
+}
+@media (min-width: 1199px) and (max-width: 1440px){
+	.items2{
+		display: none;
+
+	}
+	.btn{
+		margin: 28px 0 0 10px;
+	}
+}

@@ -1,0 +1,30 @@
+<!-- ===========NavBar ============= -->
+<!-- 
+<header class="header-down">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 navigation">
+				<div class="logo float-left">
+					<img src="assets/images/Untitled-1.png">
+				</div>
+				<div class="nav float-right">
+					<div class="nav-menu">
+						<nav class="navbar navbar-expand-lg navbar-light" style="float: right;">
+  						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    					<span class="navbar-toggler-icon"></span>
+  						</button>
+  						<div class="collapse navbar-collapse" id="navbarNav">
+    						<ul class="navbar-nav">
+      							<li class="button">
+        							<a class="btn" href="#">Rejister</i></a>
+      							</li>
+    						</ul>
+  						</div>
+					</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header> -->
+<!-- ===========Navbar ============== -->

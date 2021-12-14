@@ -1,0 +1,553 @@
+	@media (min-width: 320px) and (max-width: 767px){
+	.logo img {
+    	width: 123px;
+    	margin-top: 45px;
+    	margin-left: 15px;
+	}
+	.header-top{
+		display: none;
+	}
+	.button{
+		margin-top: 14px;
+    	margin-left: 0;
+	}
+	.getbtn{
+		padding: 14px 17px 14px 17px;
+	}
+	.header-banner {
+		text-align: center;
+	}
+	.header-banner h1{
+		font-size: 50px;
+	}
+	.header-banner p{
+		font-size: 8px;
+	}
+	.header-banner h1 span{
+		bottom : 12px;
+	}
+	.dare-img img{
+		padding: 0;
+		width: 100%;
+	}
+	.shop-add{
+		padding: 0;
+	}
+	.shop-add h1{
+		width: 111%;
+    	margin-top: 85px;
+    	font-size: 23px;
+	}
+	.viewallbtn{
+		padding: 10px 24px 10px 24px;
+	}
+	.best-1{
+		font-size: 27px;
+	}
+	.acc-p{
+		font-size: 13px;
+	}
+	.products-item-1{
+		font-size: 27px;
+	}
+	.logos{
+		margin-top: 25px;
+	}
+	.product-title{
+		color: #000000;
+		font-size: 24px;
+    	font-family: 'Montserrat-Regular';
+    	line-height: 1;
+	}
+	.product-time{
+		color: #000000;
+		font-size: 24px;
+    	font-family: 'Montserrat-Regular';
+    	line-height: 1;
+	}
+	.product-rate{
+		color: #000000;
+		font-size: 24px;
+    	font-family: 'Montserrat-Regular';
+    	line-height: 1;
+	}
+	.intro{
+		text-align: center;
+		margin-top: 30px;
+	}
+	.intro h1{
+		font-size: 22px;
+	}
+	.intro p{
+		font-size: 10px;
+	}
+	.intro-image{
+		text-align: center;
+	}
+	.intro-image img{
+		position: relative;
+    	right: 68px;
+     	width: 1000px; 
+    	top: 0;
+	}
+	.video{
+		left: 105px;
+		padding: 18px 20px 18px 26px;
+		background-color: rgb(218 22 38 / 85%);
+		top: -161px;
+		font-size: 32px;
+	}
+	.solutions{
+		margin-top: 0;
+	}
+	.industry img{
+		width: 26%;
+	}
+	.focus{
+		margin-top: 30px;
+	}
+	.focus img{
+		width: 26%;
+	}
+	.food{
+		margin-top: 40px;
+	}
+	.food img{
+		width: 26%;
+	}
+	.support{
+		margin-top: 40px;
+	}
+	.support img{
+		width: 26%;
+	}
+	.machine-1 img{
+		width: 100%;
+	}
+	.st-bh h1{
+		font-size: 30px;
+		margin-left: 16px;
+	}
+	.st-bh p{
+		margin-left: 28px;
+		font-size: 17px;
+	}
+	.team-title{
+		margin-top: 0;
+		padding: 0;
+	}
+	.team-title p{
+		font-size: 10px;
+		line-height: 21px;
+		text-align: left;
+	}
+	.ab-title h2{
+		line-height: 22px;
+    	font-size: 17px;
+	}
+	.ab-title p{
+		font-size: 10px;
+		line-height: 21px;
+		margin-top: -25px;
+	}
+	.todd{
+		width:  270px;
+		margin-top: 35px !important;
+		text-align: center;
+		position: relative;
+    	left: 10px;
+	}
+	.chad{
+		width:  270px;
+		margin-top: 35px !important;
+		text-align: center;
+		position: relative;
+    	left:10px;
+	}
+	.buck{
+		width:  270px;
+		margin-top: 35px !important;
+		position: relative;
+    	left: 10px;
+	}
+	.craig{
+		width:  270px;
+		margin-top: 35px !important;
+		position: relative;
+    	left: 10px;
+	}
+	.brett{
+		width:  270px;
+		position: relative;
+    	left: 10px;
+	}
+	.david{
+		width:  270px;
+		position: relative;
+    	left: 10px;
+	}
+	.cindy{
+		width:  270px;
+		position: relative;
+    	left: 10px;
+	}
+	.steve{
+		width:  270px;
+		position: relative;
+    	left: 10px;
+	}
+	.jeremy{
+		width:  270px;
+		position: relative;
+    	left: 10px;
+	}
+	.michael{
+		width:  270px;
+		position: relative;
+    	left: 10px;
+	}
+	.buck1{
+		width:  270px;
+		position: relative;
+    	left: 10px;
+	}
+	.chad1{
+		width:  270px;		
+		position: relative;
+    	left: 10px;
+	}
+	.intro-tranning h3{
+		text-align: center;
+	}
+	.intro-tranning h1{
+		font-size: 22px;
+		font-weight: bold;
+		text-align: center;
+	}
+	.intro-tranning p{
+		text-align: center;
+	}
+	.tr-colombus h2{ 
+		font-size: 22px;
+		font-weight: bold;
+	}
+	.class-summary h2{
+		font-size: 22px;
+		font-weight: bold;
+		text-align: center;
+	}
+	.class-summary p{
+		text-align: center;
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.nav-tabs{
+		width: 100%;
+	}
+	.Vcrace>ul li a{
+		font-size: 15px;
+		padding: 8px 8px;
+	}
+	.Vcrace> ul li{
+		margin-left: 0;
+	}
+	.Vcrace h2{
+		font-size: 28px;
+		line-height: 34px;
+		text-align: center;
+	}
+	.li-detail{
+		text-align: center;
+		font-size: 15px;
+		line-height: 25px;
+	}
+	#training_quantity{
+		width: 111px;
+    	margin: 0 auto;
+    	top: 0;
+    	float: none;
+	}
+	.add-to-card{
+		margin: 0 auto;
+    	top: 16px;
+    	left: -30px;
+	}
+	.gl-col{
+		width: 33%;
+		padding: 0 10px;
+    	margin-top: 15px;
+	}
+	.gallery-image {
+    	margin-left: 0px;	
+    	margin-right: 0px;	
+	}
+	.Instructor{
+		text-align: center;
+	}
+	.intro-tranning{
+		text-align: center;
+	}
+	.intro-tranning p{
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.readmore{
+		width: 234px;
+    	margin: 0 auto;
+    	top: 16px;
+    	right: 0;
+	}
+	.travel-img{
+		padding: 0;
+		height: 275px;
+	}
+	.downoad-btn a{
+		float: inherit;
+		margin-top: 0;
+	}
+	.review{
+		padding: 0;
+	}
+	.review-heading{
+		text-align: center;
+    	width: 170px;
+    	margin: 0 auto;
+    	float: inherit;
+	}
+	.rating{
+		width: 125px;
+    	margin: 0 auto;
+    	float: inherit;
+    	margin-top: -10px;
+	}
+	.review-form input {
+		height: 50px;
+		margin-left: 7px;
+		width: 95%;
+	}
+	.message{
+		margin-left: 7px;
+		width: 95%;
+	}
+	.tr-colombus p{
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.search{
+		top: 27px;
+    	left: 239px;
+	}
+	.tr-image{
+		padding: 0;
+	}
+	.tranning-image img{
+		width: 111%;
+    	margin-left: -18px;
+	}
+	.downoad-btn a{
+		padding: 10px 15px;
+	}
+	.form-sec{
+		padding: 50px 22px 20px;
+	}
+	.model-post{
+		background-image: none;
+		margin-top: 80px !important;
+	}
+	.post{
+		width: 100%;
+		margin: 0;
+	}
+	.iconic-series11{
+		padding: 0;
+		min-height: 380px;
+	}
+	.models-description{
+		text-align: center;
+		padding: 0;
+	}
+	.models-description-1{
+		text-align: center;
+		padding: 0;
+		color: #000;
+	}
+	.models-description-1 h1{
+		color: #000;
+	}
+	.models-description-1 h3{
+		color: #000;
+	}
+	.models-description-1 h2{
+		color: #000;
+	}
+	.models-description p{
+		text-align: center;
+		font-size: 15px;
+	}
+	.models-description-1 p{
+		text-align: center;
+		font-size: 15px;
+		color: #000;
+	}
+	.second-model{
+		top: -245px;
+	}
+	.post-1{
+		width: 100%;
+		margin: 43px 0 0 0;
+	}
+	.cnc-model{
+		list-style: none;
+		padding: 0;
+		font-size: 15px;
+	}
+	.cnc-mode{
+		list-style: none;
+		padding: 0;
+		font-size: 15px;
+		color: #000;
+	}
+	.cnc-models{
+		font-size: 15px;
+		line-height: 2.5;
+	}
+	.cnc-model{
+		font-size: 15px;
+		line-height: 2.5;
+	}
+	.educate1{
+		text-align: center;
+	}
+	.cnc-models-btn{
+		padding: 12px 20px;
+		font-size: 12px;
+	}
+	.cnc-models-btn1{
+		padding: 12px 18px;
+		font-size: 12px;
+	}
+	.adn-image{
+		width: auto;
+	}
+}
+@media (min-width: 425px) and (max-width: 767px){
+	.todd{
+		width:  270px;
+		margin-top: 35px !important;
+		text-align: center;
+		position: relative;
+    	left: 60px;
+	}
+	.chad{
+		width:  270px;
+		margin-top: 35px !important;
+		text-align: center;
+		position: relative;
+    	left:60px;
+	}
+	.buck{
+		width:  270px;
+		margin-top: 35px !important;
+		position: relative;
+    	left: 60px;
+	}
+	.craig{
+		width:  270px;
+		margin-top: 35px !important;
+		position: relative;
+    	left: 60px;
+	}
+	.brett{
+		width:  270px;
+		position: relative;
+    	left: 60px;
+	}
+	.david{
+		width:  270px;
+		position: relative;
+    	left: 60px;
+	}
+	.cindy{
+		width:  270px;
+		position: relative;
+    	left: 60px;
+	}
+	.steve{
+		width:  270px;
+		position: relative;
+    	left: 60px;
+	}
+	.jeremy{
+		width:  270px;
+		position: relative;
+    	left: 60px;
+	}
+	.michael{
+		width:  270px;
+		position: relative;
+    	left: 60px;
+	}
+	.buck1{
+		width:  270px;
+		position: relative;
+    	left: 60px;
+	}
+	.chad1{
+		width:  270px;		
+		position: relative;
+    	left: 60px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.navbar-nav .nav-item {
+		font-size: 10px;
+	}
+	.Instructor img{
+		width: 100%;
+	}
+	.nav-tabs{
+		width: 100%;
+	}
+	.Vcrace>ul li a{
+		font-size: 15px;
+		padding: 8px 8px;
+	}
+	.Vcrace> ul li{
+		margin-left: 0;
+	}
+	.Vcrace h2{
+		font-size: 28px;
+		line-height: 34px;
+		text-align: center;
+	}
+	.download-section h1{
+		font-size: 25px;
+	}
+	.download-section p{
+		font-size: 15px;
+	}
+	.downoad-btn a{
+		padding: 10px 15px;
+	}
+	.li-detail{
+		font-size: 15px;
+	}
+	.tr-colombus p{
+		font-size: 15px;
+	}
+	.search{
+		top: 30px;
+    	left: 275px;
+	}
+	.intro-tranning p{
+		font-size: 15px;
+	}
+	.class-summary p{
+		font-size: 15px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.navbar-nav .nav-item {
+		font-size: 10px;
+	}
+}
